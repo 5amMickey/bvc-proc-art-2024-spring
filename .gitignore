@@ -83,15 +83,31 @@ backup/*
 # Houdini Files
 Houdini/backup/*
 Houdini/hda/backup/*
+Houdini/geo/*
+Houdini/textures/*
 
 Unreal/BVCProcArtSpring2024/Houdini/Packages/DemoAssets/otls/backup/*
 
 # Unreal Files
 Unreal/BVCProcArtSpring2024/Binaries/*
 Unreal/BVCProcArtSpring2024/Config/*
-Unreal/BVCProcArtSpring2024/Content/*
 Unreal/BVCProcArtSpring2024/DerivedDataCache/*
 Unreal/BVCProcArtSpring2024/Intermediate/*
 Unreal/BVCProcArtSpring2024/Plugins/*
 Unreal/BVCProcArtSpring2024/Saved/*
 
+# Unreal Content
+Unreal/BVCProcArtSpring2024/Content/Audio/*
+Unreal/BVCProcArtSpring2024/Content/Blueprints/*
+Unreal/BVCProcArtSpring2024/Content/Characters/*
+Unreal/BVCProcArtSpring2024/Content/Collections/*
+# Unreal/BVCProcArtSpring2024/Content/Demo/*
+Unreal/BVCProcArtSpring2024/Content/Developers/*
+# Unreal/BVCProcArtSpring2024/Content/Houdini/*
+Unreal/BVCProcArtSpring2024/Content/HoudiniEngine/*
+Unreal/BVCProcArtSpring2024/Content/Input/*
+Unreal/BVCProcArtSpring2024/Content/LevelPrototyping/*
+Unreal/BVCProcArtSpring2024/Content/Levels/*
+Unreal/BVCProcArtSpring2024/Content/MetaHumans/*
+Unreal/BVCProcArtSpring2024/Content/Widgets/*
+Unreal/BVCProcArtSpring2024/Content/Houdini/Packages/DemoAssets/otls/backup/*
